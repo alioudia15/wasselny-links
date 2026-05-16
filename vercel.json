@@ -1,0 +1,155 @@
+{
+  "redirects": [
+    {
+      "source": "/gp_alpha/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Alpha+Gadjio&entry.1233671739=%2B33768703894&entry.2088288334=GP",
+      "permanent": false
+    },
+    {
+      "source": "/gp_alpha/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Alpha+Gadjio&entry.1980243238=%2B33768703894&entry.591361714=2026-05-20",
+      "permanent": false
+    },
+    {
+      "source": "/gp_alpha/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Alpha+Gadjio",
+      "permanent": false
+    },
+	
+	
+	{
+      "source": "fatima_z_diagana/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Fatimata+Zahra+DIAGANA&entry.1233671739=22248375989",
+      "permanent": false
+    },
+    {
+      "source": "/fatima_z_diagana/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Fatimata+Zahra+DIAGANA&entry.1980243238=22248375989",
+      "permanent": false
+    },
+    {
+      "source": "/fatima_z_diagana/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Fatimata+Zahra+DIAGANA",
+      "permanent": false
+    },
+	
+	
+	{
+      "source": "/teslem_padem/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Teslem+P.+PADEM&entry.1233671739=22249712142&entry.2088288334=Restaurant",
+      "permanent": false
+    },
+    {
+      "source": "/teslem_padem/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Teslem+P.+PADEM&entry.1980243238=22249712142",
+      "permanent": false
+    },
+    {
+      "source": "/teslem_padem/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Teslem+P.+PADEM",
+      "permanent": false
+    },
+	
+	
+	{
+      "source": "/faisha_hair/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Faisha+Hair&entry.1233671739=22241312322&entry.2088288334=Beaut%C3%A9+/+Cosm%C3%A9tique",
+      "permanent": false
+    },
+    {
+      "source": "/faisha_hair/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Faisha+Hair&entry.1980243238=22241312322",
+      "permanent": false
+    },
+    {
+      "source": "/faisha_hair/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Faisha+Hair",
+      "permanent": false
+    },
+	
+	
+	{
+      "source": "/fama_sy/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Fama+SY&entry.1233671739=22234950602",
+      "permanent": false
+    },
+    {
+      "source": "/fama_sy/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Fama+SY&entry.1980243238=22234950602",
+      "permanent": false
+    },
+    {
+      "source": "/fama_sy/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Fama+SY",
+      "permanent": false
+    },
+	
+	
+	{
+      "source": "/fama_diallo/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Fama+DIALLO&entry.1233671739=22241021938",
+      "permanent": false
+    },
+    {
+      "source": "/fama_diallo/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Fama+DIALLO&entry.1980243238=22241021938",
+      "permanent": false
+    },
+    {
+      "source": "/fama_diallo/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Fama+DIALLO",
+      "permanent": false
+    },
+	
+	
+	{
+      "source": "/xxx/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=XXX&entry.1233671739=22232097875",
+      "permanent": false
+    },
+    {
+      "source": "/xxx/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=XXX&entry.1980243238=22232097875",
+      "permanent": false
+    },
+    {
+      "source": "/xxx/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=XXX",
+      "permanent": false
+    },
+	
+	
+	{
+      "source": "/ndougouly/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=N'dougouly&entry.1233671739=22231255652",
+      "permanent": false
+    },
+    {
+      "source": "/ndougouly/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=N'dougouly&entry.1980243238=22231255652",
+      "permanent": false
+    },
+    {
+      "source": "/ndougouly/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=N'dougouly",
+      "permanent": false
+    },
+	
+	
+	{
+      "source": "/solma_boutique/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Solma+Boutique&entry.1233671739=22232635945",
+      "permanent": false
+    },
+    {
+      "source": "/solma_boutique/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Solma+Boutique&entry.1980243238=22232635945",
+      "permanent": false
+    },
+    {
+      "source": "/solma_boutique/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Solma+Boutique",
+      "permanent": false
+    }
+  ]
+}
