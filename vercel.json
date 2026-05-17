@@ -2,17 +2,17 @@
   "redirects": [
     {
       "source": "/gp_alpha/partenaire",
-      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Alpha+Gadjio&entry.1233671739=%2B33768703894&entry.2088288334=GP",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Alpha+Gadjigo&entry.1233671739=%2B33768703894&entry.2088288334=GP",
       "permanent": false
     },
     {
       "source": "/gp_alpha/livraison",
-      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Alpha+Gadjio&entry.1980243238=%2B33768703894&entry.591361714=2026-05-20",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Alpha+Gadjigo&entry.1980243238=%2B33768703894&entry.591361714=2026-05-20",
       "permanent": false
     },
     {
       "source": "/gp_alpha/retour",
-      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Alpha+Gadjio",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Alpha+Gadjigo",
       "permanent": false
     },
 	
