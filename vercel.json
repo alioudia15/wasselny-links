@@ -170,6 +170,26 @@
       "source": "/amana_plus/retour",
       "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Amana+Plus",
       "permanent": false
+    },
+
+
+	{
+      "source": "/fumay_lekk/partenaire",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSeRr1GmAoZyk2_t3YgWEsXvWNYg8XFskAHVR4SlgKZOSEwj_Q/viewform?usp=pp_url&entry.1324480863=Fumay+Lekk&entry.1233671739=22246817877&entry.2088288334=Restaurant",
+      "permanent": false
+    },
+    {
+      "source": "/fumay_lekk/livraison",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLScHpeziMGpqDwB88_IbW0LMl_TKESralHbwOwsJNFi058itfw/viewform?usp=pp_url&entry.645384574=Fumay+Lekk&entry.1980243238=22246817877",
+      "permanent": false
+    },
+    {
+      "source": "/fumay_lekk/retour",
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdwvdAnjtY0vMdIqAABr8z8oFAt6MOxYYZyuPR473sY2jS20A/viewform?usp=pp_url&entry.150850145=Fumay+Lekk",
+      "permanent": false
     }
   ]
 }
+
+
+
